@@ -65,3 +65,7 @@ O Marketing executado para essas empresas deverá comunicar de forma interativa 
 O Marketing utilizado será o digital, visto que essas empresas utilizam principalmente os Apps como canais para fazerem as suas transações, o que mostra a forte presença dessas no meio virtual. Além disso, o público-alvo será as empresas de pequeno e médio porte, tendo em vista o valor médio dos investimentos em renda fixa de 3954.19, o qual pode ser tranquilamente feito por tais pessoas jurídicas.
 Ademais, a campanha terá um prazo médio de aproximadamente 6 meses, iniciando no mês de Fevereiro e finalizando em Julho(período de maior investimento em renda fixa do ano)e utilizará como canais, sobretudo, o Google Ads, Linkedin Ads e e-mail marketing.
 De acordo com a média de preços para tais serviços de markting, o custo será entre 30 a 500 mil reais, o qual dará um enorme retorno financeiro para a Summit Financee, tornando-a destaque no meio nacional.
+
+-Dashboard das principais informações:
+![131313](https://github.com/user-attachments/assets/d50605ca-4b9a-41fd-aafc-678854f112f4)
+
